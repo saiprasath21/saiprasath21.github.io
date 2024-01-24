@@ -20,7 +20,9 @@ Aug 2023 - Present
 
 [Computational Data Science Lab for the Web and Social Media](https://faculty.cc.gatech.edu/~srijan/), GeorgiaTech, Atlanta, US
 
-- Studying the behaviour of LLMs and their applications in countering mis-information
+- Designing defense techniques for improving the adversarial robustness of **BERT, GPT and Llama2 LLMs**.
+- Creating a universal classifier that leverages LLM embeddings to effectively identify and prevent the
+generation of harmful content.
 
 <hr style="border:1px solid gray">
 

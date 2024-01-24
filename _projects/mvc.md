@@ -5,6 +5,6 @@ description: Analysed various algorithms including greedy, branch and bound, loc
 redirect: https://github.com/saiprasath21/Minimum-Vertex-Cover
 img: assets/img/vc.JPG
 importance: 3
-category: Course Projects
+category: Algorithms
 ---
 

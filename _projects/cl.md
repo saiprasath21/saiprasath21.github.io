@@ -5,6 +5,6 @@ description: Investigate the problem of covariate shift in real-world datasets a
 redirect: https://github.com/saiprasath21/Covariate-Shift-and-Continual-Learning
 img: assets/img/cl.png
 importance: 1
-category: Thesis
+category: Continual Learning
 ---
 

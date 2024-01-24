@@ -5,5 +5,5 @@ description: Augmenting a DistillBERT based text classifier with Graph Neural Ne
 img: assets/img/chexgb.JPG
 redirect: https://github.com/saiprasath21/BERTG
 importance: 2
-category: Latest
+category: Graph/Transformers
 ---

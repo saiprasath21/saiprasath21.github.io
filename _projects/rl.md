@@ -5,6 +5,6 @@ description: Analysing the optimal strategy for using expert demonstrations duri
 redirect: https://github.com/saiprasath21/Reinforcement-Learning-DQfD
 img: assets/img/rl.png
 importance: 1
-category: Course Projects
+category: Reinforcement Learning
 ---
 

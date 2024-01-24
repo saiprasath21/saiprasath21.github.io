@@ -5,6 +5,6 @@ description: Developed a dual attention based GRU model for pre-emptively detect
 redirect: https://github.com/saiprasath21/Multi-Variate-Time-Series-Analysis
 img: assets/img/time_series.jpeg
 importance: 3
-category: Internships
+category: Time Series
 ---
 

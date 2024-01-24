@@ -5,6 +5,6 @@ description: Generate optimal policies to control the spread of the virus by per
 redirect: https://github.com/saiprasath21/Covid19-Epidemiological-Modeling
 img: assets/img/covid.jpg
 importance: 2
-category: Internships
+category: Time Series
 ---
 

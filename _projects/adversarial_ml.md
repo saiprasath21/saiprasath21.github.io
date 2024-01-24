@@ -5,5 +5,5 @@ description: An elaborate study to determine the effects of Adversarial ML in ML
 img: assets/img/aml.png
 redirect: https://github.com/saiprasath21/Adversarial-ML-for-IDS
 importance: 1
-category: Internships
+category: Adversarial ML
 ---

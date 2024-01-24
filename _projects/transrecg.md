@@ -5,5 +5,5 @@ description: Graph Augmented Transformer Model for Sequential Movie Recommendati
 img: assets/img/trans.png
 redirect: https://github.com/saiprasath21/TransRecG
 importance: 1
-category: Latest
+category: Graph/Transformers
 ---
